@@ -8,7 +8,7 @@ setup(
     description='EDSA example python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='ttps://github.com/Sinesipo/package.git',
+    url='https://github.com/Sinesipo/hackathon.git',
     author='Sinesipo Mbasa',
     author_email='smbasa1818@gmail.com'
 )
