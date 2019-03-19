@@ -1,18 +1,17 @@
 def bubble_sort(items):
     count, swap = 0, 0
-       n = 0
-       while n < len(items) - 1:
-           count += 1
-           if items[n] > items[n + 1]:
-               swap += 1
-               items[n], items[n+1] = items[n+1], items[n]
-               n = 0
-           else:
-               n = n + 1
-       return items
+    n = 0
+    while n < len(items) - 1:
+        count += 1
+        if items[n] > items[n + 1]:
+            swap += 1
+            items[n], items[n+1] = items[n+1], items[n]
+            n = 0
+        else:
+             n = n + 1
+      return items
+'''Return array of items, sorted in ascending order'''
 
-
-    '''Return array of items, sorted in ascending order'''
 def merge_sort(array):
     """Merge sort algorithm implementation."""
 
