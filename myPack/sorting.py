@@ -8,9 +8,13 @@ def bubble_sort(items):
             items[n], items[n+1] = items[n+1], items[n]
             n = 0
         else:
-             n = n + 1
-      return items
-'''Return array of items, sorted in ascending order'''
+            n = n + 1
+        return items
+
+
+
+
+
 
 def merge_sort(array):
     """Merge sort algorithm implementation."""
