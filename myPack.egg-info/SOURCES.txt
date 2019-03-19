@@ -1,0 +1,11 @@
+README.md
+setup.py
+myPack/__init__.py
+myPack/recursion.py
+myPack/sorting.py
+myPack.egg-info/PKG-INFO
+myPack.egg-info/SOURCES.txt
+myPack.egg-info/dependency_links.txt
+myPack.egg-info/requires.txt
+myPack.egg-info/top_level.txt
+test/test.py

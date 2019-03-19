@@ -1,8 +1,8 @@
 Metadata-Version: 1.0
-Name: package
+Name: myPack
 Version: 0.1
 Summary: EDSA example python package
-Home-page: ttps://github.com/Sinesipo/package.git
+Home-page: https://github.com/Sinesipo/myPack.git
 Author: Sinesipo Mbasa
 Author-email: smbasa1818@gmail.com
 License: MIT
